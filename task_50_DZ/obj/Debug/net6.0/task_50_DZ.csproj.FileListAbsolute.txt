@@ -1,0 +1,15 @@
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\task_50_DZ.csproj.AssemblyReference.cache
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\task_50_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\task_50_DZ.AssemblyInfoInputs.cache
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\task_50_DZ.AssemblyInfo.cs
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\task_50_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\bin\Debug\net6.0\task_50_DZ.exe
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\bin\Debug\net6.0\task_50_DZ.deps.json
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\bin\Debug\net6.0\task_50_DZ.runtimeconfig.json
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\bin\Debug\net6.0\task_50_DZ.dll
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\bin\Debug\net6.0\task_50_DZ.pdb
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\task_50_DZ.dll
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\refint\task_50_DZ.dll
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\task_50_DZ.pdb
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\task_50_DZ.genruntimeconfig.cache
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\07_01-05-23\task_50_DZ\obj\Debug\net6.0\ref\task_50_DZ.dll
